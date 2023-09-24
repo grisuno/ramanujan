@@ -14,7 +14,10 @@ Srinivasa Ramanujan fue un matemático indio conocido por sus contribuciones a l
 
 1. Fórmula de Ramanujan para 1/π:
 
-π = (9801 / 8√2) * ∑(n=0, ∞) [(4n)! * (1103 + 26390n)] / [(n!)^4 * 396^(4n)]
+$$
+π = \frac{9801}{2\sqrt{2} \cdot 8^3} \cdot \sum_{n=0}^{\infty} \frac{(4n)! \cdot (1103 + 26390n)}{(n!)^4 \cdot 396^{4n}}
+$$
+
 ​
  
 
