@@ -14,7 +14,30 @@ Srinivasa Ramanujan fue un matemático indio conocido por sus contribuciones a l
 
 1. Fórmula de Ramanujan para 1/π:
 
-   ![Fórmula de Ramanujan para 1/π](https://wikimedia.org/api/rest_v1/media/math/render/svg/67c86524a2eeb174d63a7cc6cde5b4e0cc70b1ef)
+   ![Fórmula de Ramanujan para 1/π]π
+1
+​
+ = 
+9801
+8
+​
+ 
+​
+  
+n=0
+∑
+∞
+​
+  
+(n!) 
+4
+ 396 
+4n
+ 
+(4n)!(1103+26390n)
+​
+ 
+
 
 2. Serie infinita de Ramanujan para 1/π:
 
