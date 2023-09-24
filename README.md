@@ -2,9 +2,7 @@
 La Fórmula de Ramanujan para Pi:  
 
 Pi = (sqrt(8) / 9801) * Σ desde k=0 hasta infinito de [((4k)!(1103 + 26390k)) / ((k!)^4 * 396^(4k))]  
-$$
-π = \frac{9801}{2\sqrt{2} \cdot 8^3} \cdot \sum_{n=0}^{\infty} \frac{(4n)! \cdot (1103 + 26390n)}{(n!)^4 \cdot 396^{4n}}
-$$
+
 
 Donde Σ representa la suma desde k=0 hasta infinito.
 
