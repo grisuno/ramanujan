@@ -43,3 +43,11 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 ## Licencia
 
 Este proyecto está bajo la Licencia Pública General de GNU v3. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
+
+
+---
+### Related Physics and Mathematics Projects
+Exploring fundamental patterns and equations:
+- [schrodinger](https://github.com/grisuno/schrodinger): Patterns in quantum physics.
+- [dirac](https://github.com/grisuno/dirac): Series in quantum mechanics.
+- [algebra-de-grok](https://github.com/grisuno/algebra-de-grok): Abstract algebraic structures.
