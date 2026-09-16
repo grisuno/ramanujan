@@ -43,3 +43,31 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 ## Licencia
 
 Este proyecto está bajo la Licencia Pública General de GNU v3. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
+
+
+---
+### Related Physics and Mathematics Projects
+Exploring fundamental patterns and equations:
+- [schrodinger](https://github.com/grisuno/schrodinger): Patterns in quantum physics.
+- [dirac](https://github.com/grisuno/dirac): Series in quantum mechanics.
+- [algebra-de-grok](https://github.com/grisuno/algebra-de-grok): Abstract algebraic structures.
+
+<!-- readmenator-kb-link -->
+## Knowledge Base
+
+This project has been analyzed by [ReadMenator](https://github.com/grisuno/ReadMenator),
+a zero-token polyglot static analysis tool. Analysis outputs are available:
+
+- **[KNOWLEDGE_BASE.md](./KNOWLEDGE_BASE.md)** -- Full architecture reference with all
+  classes, functions, imports, dependency graphs, UML class diagrams, security
+  audit findings, community analysis, and more.
+- **[readmenator-agent/](./readmenator-agent/)** -- Agent-friendly, grep-optimized index.
+  - `INDEX.md` -- Quick reference: what each file does
+  - `API.md` -- Public function contracts
+  - `GOTCHAS.md` -- Change warnings
+  - `SECURITY.md` -- Findings by severity
+
+AI agents: Read `readmenator-agent/INDEX.md` for fast project context.
+Developers: Read `KNOWLEDGE_BASE.md` for full architecture reference.
+<!-- /readmenator-kb-link -->
+
